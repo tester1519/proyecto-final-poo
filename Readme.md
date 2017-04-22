@@ -2,7 +2,7 @@
 
 ## Proyecto: Sistema de control de transporte.
 
-Fecha: 22/4/2017
+## Fecha: 22/4/2017
 
 ### Integrantes:
 Albert Manuel Luna (2-14-2039).
